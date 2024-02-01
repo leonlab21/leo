@@ -1,5 +1,5 @@
 # leo is a very tiny programming and scripting language but whit all ...
-many modern programming thecniques and procedures.
+... the many modern programming thecniques and procedures.
 leo is a programming language very similar to the language called "lua". 
 For more information about Lua see the website https://www.lua.org. 
 LEO differs from Lua above all in its nature of a language dedicated 
